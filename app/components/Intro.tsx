@@ -6,7 +6,7 @@ function Intro() {
   return (
     <section
       id="Home"
-      className="h-screen flex flex-col text-center justify-center items-center md:flex-row md:text-start"
+      className="mt-[100px] h-screen flex flex-col text-center justify-center items-center md:flex-row md:text-start"
     >
       <div>
         <Image

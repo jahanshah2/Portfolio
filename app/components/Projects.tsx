@@ -5,7 +5,7 @@ function Projects() {
   return (
     <section
       id="Projects"
-      className="flex flex-col text-center justify-center items-center my-40"
+      className="mt-[300px] flex flex-col text-center justify-center items-center my-40"
     >
       <h1 className="text-6xl my-6">Projects</h1>
 
